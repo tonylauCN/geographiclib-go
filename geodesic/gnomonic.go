@@ -106,3 +106,4 @@ func (g *Gnomonic) Reverse(lat0, lon0, x, y float64) GnomonicData {
 		return rev
 	}
 }
+
